@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Your Server"];
+const statusMessages = ["Organizing Tournaments"];
 
 
 let currentIndex = 0;
