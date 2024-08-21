@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Organizing Tournaments"];
+const statusMessages = ["Infinitely Counting"];
 
 
 let currentIndex = 0;
